@@ -102,7 +102,9 @@ Seed: -5043223749094712440 Eyes: 12 Spawn: (-37,-168) Portal: (-576,-2736) Dista
 - `12eyes.txt` – Seeds with 12 eyes
 
 Each file contains tab-separated values: `Seed`, `Start_X`, `Start_Z`, `Portal_X`, `Portal_Z`, `Distance`
+
 ie: -5087685212357556483	-35	140	-576	2192	2336 (11eye) portal is at (-576	2192)
+
 ie: 1040587980606700923	-1	-91	-64	-1456	982 (12 eye) portal is at (-64	-1456)
 
 ## 🧠 How It Works
